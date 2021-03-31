@@ -1,1 +1,3 @@
-test doc 
+test doc
+By Kim and Taylor
+ 
